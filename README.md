@@ -1,6 +1,4 @@
-# datalake
-
-# AWS
+# datalake (AWS)
 ## Outline
 <ol>
 <li> S3 (class) </li>
